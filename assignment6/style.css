@@ -1,0 +1,42 @@
+*
+{
+	margin: 0;
+	padding:0;
+}
+.row{
+	background-color:white; 
+	margin-top: 20px; 
+	width: 80%; 
+	margin: 20px auto;
+
+} 
+body
+{
+background-color: #28FFBF; 
+} 
+.am
+{
+	border:1px solid black; 
+	padding:5px;
+	margin: 0px auto;
+
+} 
+.container
+{
+	margin:25px auto;
+}  
+
+img
+{
+	height: 100%;
+	width: 100%;
+} 
+ #vik
+{
+	
+	padding: 0px; 
+} 
+.er
+{
+	padding:15px;
+}
